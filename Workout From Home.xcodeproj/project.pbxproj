@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8332B8B125B7E15B0032D690 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8332B8B025B7E15B0032D690 /* Constants.swift */; };
+		8332B8B225B7E15B0032D690 /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8332B8B025B7E15B0032D690 /* Constants.swift */; };
 		837982CE25ABFD7A00CEA894 /* Tests_iOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837982CD25ABFD7A00CEA894 /* Tests_iOS.swift */; };
 		837982D925ABFD7A00CEA894 /* Tests_macOS.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837982D825ABFD7A00CEA894 /* Tests_macOS.swift */; };
 		837982DB25ABFD7A00CEA894 /* Workout_From_HomeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 837982B225ABFD7900CEA894 /* Workout_From_HomeApp.swift */; };
@@ -35,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8332B8B025B7E15B0032D690 /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
 		837982B225ABFD7900CEA894 /* Workout_From_HomeApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Workout_From_HomeApp.swift; sourceTree = "<group>"; };
 		837982B325ABFD7900CEA894 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		837982B425ABFD7A00CEA894 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -101,6 +104,7 @@
 				837982B225ABFD7900CEA894 /* Workout_From_HomeApp.swift */,
 				837982B325ABFD7900CEA894 /* ContentView.swift */,
 				837982B425ABFD7A00CEA894 /* Assets.xcassets */,
+				8332B8B025B7E15B0032D690 /* Constants.swift */,
 			);
 			path = Shared;
 			sourceTree = "<group>";
@@ -310,6 +314,7 @@
 			files = (
 				837982DD25ABFD7A00CEA894 /* ContentView.swift in Sources */,
 				837982DB25ABFD7A00CEA894 /* Workout_From_HomeApp.swift in Sources */,
+				8332B8B125B7E15B0032D690 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -319,6 +324,7 @@
 			files = (
 				837982DE25ABFD7A00CEA894 /* ContentView.swift in Sources */,
 				837982DC25ABFD7A00CEA894 /* Workout_From_HomeApp.swift in Sources */,
+				8332B8B225B7E15B0032D690 /* Constants.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
